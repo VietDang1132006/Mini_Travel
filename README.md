@@ -57,7 +57,8 @@ Khi mở web app (link ngrok public), **ứng dụng sẽ yêu cầu đăng nh�
 
   * **Username:** `user`
   * **Password:** `123`
-
+  * **Note:** `Bấm login 2 lần để chuyển trang`
+  
 Người dùng **bắt buộc** phải nhập đúng username và password để vào app.
 
 > **Lưu ý bảo mật:** Đây chỉ là cấu hình mặc định để demo. Tuyệt đối **không** để thông tin đăng nhập mặc định trên môi trường public lâu dài. Nếu muốn deploy thực tế, thay đổi username/password hoặc tích hợp hệ thống xác thực an toàn (OAuth, secret manager, v.v.).
